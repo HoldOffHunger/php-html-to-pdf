@@ -54,7 +54,7 @@
 	
 */
 
-	require('../app/tfpdf/tfpdf.php');
+	require('../tfpdf/tfpdf.php');
 	
 	class HTMLtoPDF extends tFPDF {
 		protected $HREF;
