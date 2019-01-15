@@ -10,7 +10,7 @@
 			Japanese Example
 			--------------------------------------
 
-	require('../app/fpdf-write-html/fpdf-write-html.php');
+	require('../php-html-to-pdf/php-html-to-pdf.php');
 	
 	$pdf_object = new HTMLtoPDF([
 		'Author'=>'HoldOffHunger',
@@ -25,7 +25,7 @@
 			Chinese Example
 			--------------------------------------
 
-	require('../app/fpdf-write-html/fpdf-write-html.php');
+	require('../php-html-to-pdf/php-html-to-pdf.php');
 	
 	$pdf_object = new HTMLtoPDF([
 		'Author'=>'HoldOffHunger',
@@ -40,7 +40,7 @@
 			Englsh Example
 			--------------------------------------
 
-	require('../app/fpdf-write-html/fpdf-write-html.php');
+	require('../php-html-to-pdf/php-html-to-pdf.php');
 	
 	$pdf_object = new HTMLtoPDF([
 		'Author'=>'HoldOffHunger',
