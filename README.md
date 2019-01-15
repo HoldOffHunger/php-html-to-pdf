@@ -3,7 +3,7 @@
 
 This project provides a simple, easy-to-use HTML-to-PDF converter in PHP, with full, out-of-the-box support for UTF-8 and non-Latin-based languages.
 
-<p align="center"><img src="./images/php-html-to-pdf-converter.jpg" width="600px;"/></p>
+<p align="center"><img src="./images/php-html-to-pdf-converter.jpg" width="750px;"/></p>
 
 ## Demos
 
